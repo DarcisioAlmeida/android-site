@@ -1,0 +1,81 @@
+/* RESPONSIVIDADE PARA TABLETS */
+  @media (max-width: 668px) {
+    
+    nav ul {
+      align-items: center;
+      padding-top: 20px;
+    }
+
+    main {
+      width: 100%;
+    }
+  }
+
+/* RESPONSIVIDADE PARA SMARTPHONES */
+  @media (max-width: 425px) {
+    
+    body {
+      background-color: var(--cor7);
+    }
+
+    header {
+      padding-top: 20px;
+      height: 330px;
+    }
+
+    header p {
+      width: 350px;
+    }
+
+    main {
+      width: 100%;
+      background-color: none;
+      box-shadow: none;
+      border-radius: none;
+    }
+
+    article h1 {
+      font-size: 1.8em;
+      text-align: initial;
+    }
+
+    article h2 {
+      font-size: 1.2em;
+    }
+
+    article p {
+      font-size: 1em;
+    }
+
+    .bug {
+      height: 200px;
+      transition: 0.5s;
+      width: 350px;
+    }
+
+    iframe {
+      height: 300px;
+    }
+
+    aside h3 {
+      font-size: 1.2em;
+      height: 40px;
+    }
+
+    aside ul {
+      columns: 1;
+      margin: 10px 0;
+      padding: 0px;
+      height: 280px;
+      flex-wrap: nowrap;
+    }
+
+    aside ul li {
+      font-size: 1em;
+      display: flex;
+      flex-direction:column;
+      margin: 0 auto;
+      width: 195px;
+      padding-left: 10px;
+    }
+  }
