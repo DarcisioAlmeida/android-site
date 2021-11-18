@@ -1,6 +1,6 @@
 # Projeto Android -- Curso em Video - Gustavo Guanabara 
 
-Esse repositório foi desenvolvido com base no curso de HTML & CSS módulo II - desafio 10
+Esse repositório foi desenvolvido com base no curso de HTML & CSS módulo II - desafio 10 <br>
 Este site é responsivo 
 
 ![Curso em Video](./imagens/cursoemvideo.jpg 'Curso em Video')
@@ -16,10 +16,10 @@ As seguintes ferramentas foram usadas nas aulas e desafios dos projetos:
 # Ferramentas utilizadas
 
 Editor de Texto: [VS Code](https://code.visualstudio.com/)  
-Fonte do projeto: [Google Fonts](https://fonts.google.com/) - Bebas Neue 
-Imagens projeto: [Gustavo Guanabara](https://github.com/gustavoguanabara/html-css/tree/master/desafios/modulo-02/d010) 
+Fonte do projeto: [Google Fonts](https://fonts.google.com/) - Bebas Neue <br>
+Imagens do projeto: [Gustavo Guanabara](https://github.com/gustavoguanabara/html-css/tree/master/desafios/modulo-02/d010) <br>
 Imagens emoji: [Emojipedia](https://emojipedia.org/)  
-História do Android: [Wikipedia](https://pt.wikipedia.org/wiki/Android)
+História do Android: [Wikipedia](https://pt.wikipedia.org/wiki/Android) <br>
 Gerador de paleta de cores: [Coolors](https://coolors.co)   
 Gerador de favicon: [Favicon.io](https://link-url-here.org)  
 Extensão para servir as páginas localmente: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)  
